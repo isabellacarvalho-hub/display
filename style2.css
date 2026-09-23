@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    border: 2px solid red;
+    height: 100vh;
+}
+
+header {
+    border: 2px solid blue;
+    height: 100px;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    
+}
+
+a {
+    border: 2px solid green;
+    width: 150px;
+}
